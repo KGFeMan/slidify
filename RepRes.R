@@ -1,0 +1,7 @@
+setwd("C:/Data/Analytics/Courses/Coursera/Data Products/R/Reproducible Pitch Presentation")
+library("devtools", lib.loc="C:/Users/Krishna/Documents/R/win-library/3.0")
+author("Reproducible Pitch Presentation")
+install_github("slidifylibraries","ramnathv")
+library(slidify)
+library(knitr)
+slidify("index.Rmd")
