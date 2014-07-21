@@ -40,7 +40,7 @@ knit        : slidify::knit2slides
 
 ## Cost of Operations
 
-1. Cumulative Costs is at 4.5% ( Refer Black Dotted Line)
+1. Cumulative Costs is at 4.5% ( Refer Black Line)
 2. Average Lending Rate ( including Processing Fee) is at 5.5% ( Refer horizontal Cyan color line)
 
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
